@@ -182,12 +182,19 @@ Test your configuration by:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Additional Resources
+
+- 📚 **[BigQuery meets Google ADK and MCP](https://cloud.google.com/blog/products/ai-machine-learning/bigquery-meets-google-adk-and-mcp)** - Official Google Cloud tutorial that inspired this project
+- 📖 **[Google ADK Documentation](https://cloud.google.com/agent-development-kit)** - Complete ADK documentation
+- 🔧 **[BigQuery API Reference](https://cloud.google.com/bigquery/docs/reference)** - BigQuery API documentation
+
 ## Support
 
 For issues and questions:
 1. Check the troubleshooting section above
-2. Review Google ADK documentation
-3. Open an issue in this repository
+2. Review the official tutorial link above
+3. Review Google ADK documentation
+4. Open an issue in this repository
 
 ---
 
