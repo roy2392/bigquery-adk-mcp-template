@@ -1,6 +1,16 @@
-# BigQuery Agent for Google ADK
+<div align="center">
 
-A BigQuery agent built with Google's Agent Development Kit (ADK) that enables natural language querying of BigQuery datasets through an interactive web interface.
+# 🤖 BigQuery Agent for Google ADK
+
+[![Google ADK](https://img.shields.io/badge/Google-ADK-4285f4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/agent-development-kit)
+[![BigQuery](https://img.shields.io/badge/BigQuery-Powered-669df6?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+**A BigQuery agent built with Google's Agent Development Kit (ADK) that enables natural language querying of BigQuery datasets through an interactive web interface.**
+
+---
+
+</div>
 
 ## Screenshots
 
