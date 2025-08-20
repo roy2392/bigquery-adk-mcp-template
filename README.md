@@ -2,6 +2,12 @@
 
 A BigQuery agent built with Google's Agent Development Kit (ADK) that enables natural language querying of BigQuery datasets through an interactive web interface.
 
+## Screenshots
+
+![ADK Chat Interface](media/adk-chat-ui.png)
+
+*The ADK web interface showing the BigQuery agent in action - exploring table schema and executing queries with real-time results.*
+
 ## Features
 
 - 🔍 **Natural Language to SQL**: Ask questions in plain English and get SQL query results from BigQuery

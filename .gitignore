@@ -53,11 +53,11 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Screenshots and temporary files
-*.png
-*.jpg
-*.jpeg
-*.gif
+# Screenshots and temporary files (allow media/ folder)
+/*.png
+/*.jpg
+/*.jpeg
+/*.gif
 
 # Temporary toolbox config (may contain sensitive data)
 bigquery-tools.yaml
